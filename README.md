@@ -7,6 +7,7 @@ DarshanEase is a web-based application developed as part of my internship projec
 
 ### Completed Tasks
 -  Technical Architecture
+-  ER Diagram
 
 ### Repository Contents
 - Technical_Architecture_DarshanEase.pdf
