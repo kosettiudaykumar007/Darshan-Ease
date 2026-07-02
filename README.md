@@ -1,24 +1,41 @@
-# DarshanEase
+# 🛕 DarshanEase
 
 ## Temple Darshan Ticket Booking System
 
 ### Project Overview
-DarshanEase is a web-based application developed as part of my internship project. The application allows devotees to book temple darshan tickets online, check slot availability, and receive digital tickets.
 
-### Completed Tasks
--  Technical Architecture
--  ER Diagram
+DarshanEase is a web-based Temple Darshan Ticket Booking System developed as part of my internship project. It allows devotees to register, view temples, select darshan slots, and book tickets online. The system also helps organizers and administrators manage temples, bookings, and users efficiently.
 
-### Repository Contents
-- Technical_Architecture_DarshanEase.pdf
+---
 
-### Technologies (To be used)
+## 📄 Project Architecture
+
+The project architecture document includes:
+
+- Technical Architecture
+- ER Diagram
+- Features
+- Roles and Responsibilities
+- User Flow
+- MVC Architecture
+
+**Document:** `Project_Architecture_DarshanEase.pdf`
+
+---
+
+## 💻 Technologies Used
+
 - HTML
 - CSS
 - JavaScript
-- Java
-- Spring Boot
-- MySQL
+- Node.js
+- Express.js
+- MongoDB
 
-### Project Status
-The project is currently under development. Additional tasks and documentation will be uploaded as they are completed.
+---
+
+## 🚀 Project Status
+
+✅ Project Architecture Completed
+
+The remaining modules will be added as the project progress.
